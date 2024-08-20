@@ -1,4 +1,4 @@
-# DH2024 Workshop
+# LEAF DH2024 Workshop
 Workshop materials for the DH2024 LEAF Commons workshop.
 
 This repository for LEAF Commons: Using Linked Tools for Digital Editorial Production contains files that can be used in LEAF-Writer and the Dynamic Table of Contexts.
